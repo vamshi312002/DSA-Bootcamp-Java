@@ -51,7 +51,8 @@
   <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
   </a>
  
- 
+ This is just for practicing
+
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=kunal-kushwaha/DSA-Bootcamp-Java"/>
